@@ -1,0 +1,18 @@
+.signin-container {
+  margin: 50px auto;
+  border: 1px solid black;
+  width: 600px;
+  display: flex;
+  border-radius: 10px;
+  justify-content: space-between;
+}
+.left-view-signin {
+  background: #22cb5c;
+  padding: 60px;
+  width: 50%;
+}
+.right-view-signin {
+  width: 50%;
+  margin-left: 20px;
+  margin-top: 30px;
+}
